@@ -1,0 +1,15 @@
+{
+  "name": "Dazing Shot",
+  "buffs":[],
+  "debuffs": [],
+  "stun damage modifier" : 1,
+  "damage range": [31.4, 157],
+  "cooldown ticks": 9,
+  "adrenaline cost": 0,
+  "adrenaline increase": 8,
+  "adrenaline threshold" : 0,
+  "cast time ticks" : 0,
+  "max targets": 1,
+  "ignores damage mod": false,
+  "applies hit": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Binding Shot",
+  "buffs":[],
+  "debuffs": [
+    {
+      "name" : "stun",
+      "type" : "on tick",
+      "max ticks": 3
+    }
+  ],
+  "stun damage modifier" : 1,
+  "damage range": [20, 100],
+  "cooldown ticks": 13,
+  "adrenaline cost": 0,
+  "adrenaline increase": 8,
+  "adrenaline threshold" : 0,
+  "cast time ticks" : 0,
+  "max targets": 1,
+  "ignores damage mod": false,
+  "applies hit": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Tight Bindings",
+  "buffs":[],
+  "debuffs":
+  [
+    {
+      "name" : "stun",
+      "type" : "on tick",
+      "max ticks": 5
+    }
+  ],
+  "stun damage modifier" : 1,
+  "damage range": [40, 200],
+  "cooldown ticks": 25,
+  "adrenaline cost": 15,
+  "adrenaline increase": 0,
+  "adrenaline threshold" : 50,
+  "cast time ticks" : 0,
+  "max targets": 1,
+  "ignores damage mod": false,
+  "applies hit": true
+}

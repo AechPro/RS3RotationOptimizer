@@ -1,0 +1,15 @@
+{
+  "name": "Snipe",
+  "buffs":[],
+  "debuffs": [],
+  "stun damage modifier" : 1,
+  "damage range": [125, 219],
+  "cooldown ticks": 17,
+  "adrenaline cost": 0,
+  "adrenaline increase": 8,
+  "adrenaline threshold" : 0,
+  "cast time ticks" : 3,
+  "max targets": 1,
+  "ignores damage mod": false,
+  "applies hit": true
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Snap Shot",
+  "buffs":[],
+  "debuffs": [],
+  "stun damage modifier" : 1,
+  "damage range": [200, 330],
+  "cooldown ticks": 34,
+  "adrenaline cost": 15,
+  "adrenaline increase": 0,
+  "adrenaline threshold" : 50,
+  "cast time ticks" : 0,
+  "max targets": 1,
+  "ignores damage mod": false,
+  "applies hit": true
+}

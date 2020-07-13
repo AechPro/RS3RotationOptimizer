@@ -1,0 +1,15 @@
+{
+  "name": "Auto Attack",
+  "buffs":[],
+  "debuffs": [],
+  "stun damage modifier" : 1,
+  "damage range": [1,50],
+  "cooldown ticks": 0,
+  "adrenaline cost": 0,
+  "adrenaline increase": 2,
+  "adrenaline threshold" : 0,
+  "cast time ticks" : 2,
+  "max targets": 1,
+  "ignores damage mod": false,
+  "applies hit": true
+}
